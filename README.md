@@ -7,7 +7,11 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 ## Aulas Práticas
 
 * [Intordução às Ferramentas](https://github.com/LoP-ECT2203/2017.2/wiki/Criando-P%C3%A1ginas-WEB)
-* [Laboratório 1](listas/lista_01.md)
+* [Laboratório 1](http://lop.ect.ufrn.br/lista/598cd57a3bc48946977dcf67)
+* [Laboratório 2](http://lop.ect.ufrn.br/lista/599ae0e1872c0a078b68b13e)
+* [Laboratório 3](http://lop.ect.ufrn.br/lista/59a43ffe488d4e3adff533a2)
+* [Laboratório 4](http://lop.ect.ufrn.br/lista/59ccfc9edc0ada44262e5991)
+* [Laboratório 5](http://lop.ect.ufrn.br/lista/59c91e06c3da1d73401149da)
 
 
 ## Slides de Aula
