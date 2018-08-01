@@ -1,4 +1,4 @@
-# ECT2203 - Lógica de Programação (LoP) 2017.2
+# ECT2203 - Lógica de Programação (LoP)
 
 Página para apresentar os códigos do componente curricular ECT2203 - Lógica de Programação.
 
