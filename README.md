@@ -108,6 +108,8 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 * *Game Art 2D*, http://www.gameart2d.com/freebies.html
 * *Open Game Arte*, https://opengameart.org/
 * *Spriters Resource*, https://www.spriters-resource.com/
+* *Condado Braveheart*, http://www.condadobraveheart.com/forum/index.php?action=downloads;cat=13
+* *Centro RPG*, https://centrorpg.com/index.php?PHPSESSID=2eeea6d5322bc2417f05fc4b971110ec&board=5.0
 
 ## Dicas
 
