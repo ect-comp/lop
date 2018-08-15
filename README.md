@@ -21,7 +21,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 * [Representações de Algoritmos](https://goo.gl/Ci29jy)
 * [Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/4dYfps)
 * [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
-* [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
+* [Introdução à funções](https://docs.google.com/presentation/d/1QMpZ_P4R3fGNy9RSFGifl283xa0bz0resJN2HHfez8Q/edit?usp=sharing)
 * [Estrutura Condicional Parte I](https://goo.gl/rRRrol)
 * [Exercícios - Estrutura Condicional Parte II](https://goo.gl/iQdlGa)
 * [Operadores Lógicos - Estrutura Condicional Parte III](https://goo.gl/vI592o)
