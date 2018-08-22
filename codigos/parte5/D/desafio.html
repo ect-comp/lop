@@ -1,0 +1,25 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="ect.js"></script>
+<script>
+
+	n = lerInteiro("Entre com um número inteiro:"); 
+	while ( n < 0 ) {
+		n = lerInteiro("Número negativo. Entre com um número inteiro:"); 
+	}
+	contador = 0; 
+	x = lerReal("Entre com um número real:");
+	while ( x != n*n ) {
+		// raiz inteira? 
+		raiz = raizQuadrada(x); 
+		parteInteira = piso( raizQuadrada(x) );
+		if ( raiz == parteInteira && raiz >= 10 && raiz <= 100) {
+			contador = contador + 1; 
+		}
+		x = lerReal("Entre com um número real:");
+	} 
+	escreva(contador); 
+
+
+</script>
+
+

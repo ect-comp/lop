@@ -1,0 +1,21 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="ect.js"></script>
+<script>
+  
+	var N;
+	do {
+		N = lerInteiro("Entre com um número:");
+	}
+	while (N < 1); 
+	
+	contador = 1;
+	while ( contador <= N) {
+		do {
+			nota = lerReal(" Entre com a nota "+contador+":"); 
+		} while (nota < 0 || nota > 10); 
+		contador = contador +1; 
+	}
+    
+</script>
+
+

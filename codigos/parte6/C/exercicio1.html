@@ -1,0 +1,18 @@
+<script src="ect.js"></script>
+<meta charset="UTF-8">
+<script>
+	var numeros = []; 
+	for ( i = 0; i < 5; i++) {
+		numeros[i] = lerReal("Entre com o número de índice "+i+": "); 
+		while ( numeros[i] < -7 || numeros[i] > 7 ) {
+			numeros[i] = lerReal("Entre com o número de índice "+i+": "); 
+		}
+	}
+	escreva(numeros); 
+	
+	escreva(numeros.sort()); 
+
+	
+</script>
+
+

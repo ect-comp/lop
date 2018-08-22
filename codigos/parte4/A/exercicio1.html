@@ -1,0 +1,61 @@
+<script src="ect.js"></script>
+<script>
+	
+		
+	/* 
+	entre com as faltas 
+	se falta maior que 25 %  
+		escreva "Reprovado" 
+	senão  
+		entre com a nota1 
+		entre com a nota2 
+		média recebe (nota1 + nota2) / 2 
+		// verifica se está em reposição 
+		se ( media menor que 5)
+			se (media maior igual 3) 
+				entre com a nota de reposição 
+				// atualiza a menor nota com a reposição 
+				se (nota1 menor nota2 )
+					nota1 recebe reposição 
+				senão 
+					nota2 recebe reposição 
+				// calcula novamente a média 
+				média recebe (nota1 + nota2) / 2
+		se (média maior que 5) 
+			escreva "Aprovado"
+		senão 
+			escreva "Reprovado" 
+	*/
+	
+	faltas = lerReal("Entre com o número de faltas:"); 
+	if (faltas > 90/4) {
+		escreva("Reprovado por falta"); 
+	}
+	else {
+		nota1 = lerReal("Entre com a nota 1:"); 
+		nota2 = lerReal("Entre com a nota 2:"); 
+		media = (nota1 + nota2)/2; 
+		if (media >= 3) { // [3,5[ 
+			if (media < 5) {
+				reposicao = lerReal("Entre com nota de reposição: "); 
+				if ( nota1 < nota2 ){
+					nota1 = reposicao; 
+				}
+				else {
+					nota2 = reposicao; 
+				}
+				media = (nota1 + nota2)/2; 
+			}
+		}
+		if (media >= 5) {
+			escreva("Aprovado");
+		}
+		else {
+			escreva("Reprovado"); 
+		}
+	}
+ 
+	
+</script>
+
+

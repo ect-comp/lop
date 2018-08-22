@@ -1,0 +1,34 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="ect.js"></script>
+<script>
+	dia = lerInteiro("Número do dia: "); 
+	if ( dia <= 365 ) {
+		diaNaSemana = dia % 7;
+		 
+		if ( diaNaSemana == 1) {
+			escreva("Terça-Feira.");
+		}
+		if ( diaNaSemana == 2) {
+			escreva("Quarta-Feira.");
+		}
+		if ( diaNaSemana == 3) {
+			escreva("Quinta-Feira.");
+		}
+		if ( diaNaSemana == 4) {
+			escreva("Sexta-Feira.");
+		}
+		if ( diaNaSemana == 5) {
+			escreva("Sábado.");
+		}
+		if ( diaNaSemana == 6) {
+			escreva("Domingo.");
+		}
+		if ( diaNaSemana == 0) {
+			escreva("Segunda-Feira.");
+		}
+	}
+	else {
+		escreva(" O ano de 2013 tem apenas 365 dias"); 
+	}
+	
+</script>

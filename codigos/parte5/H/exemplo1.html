@@ -1,0 +1,29 @@
+<script src="ect.js"></script>
+<meta charset="UTF-8">
+<script>
+	soma = 0; maisPesado = -1; maisLeve = 100000; 
+	var nMaisPesado; var nMaisLeve;  
+	N = lerInteiro("Entre com o número de bois: "); 
+	for ( cont = 1; cont <= N; cont++) {
+		numero = lerReal("Número do boi: "); 
+		peso = lerReal("Peso do boi: "); 
+		if ( peso > maisPesado ) {
+			maisPesado = peso; 
+			nMaisPesado = numero; 
+		}
+		if ( peso < maisLeve ) {
+			maisLeve = peso;
+			nMaisLeve = numero;
+			
+		}
+		soma = soma + peso; 
+	}
+	escreva(" O boi mais leve foi o n "+nMaisLeve+" com "+maisLeve+" kilos.");
+	escreva(" O boi mais pesado foi o n "+nMaisPesado+" com "+maisPesado+" kilos.");
+	escreva(" A média foi :" +(soma/N)); 
+	
+
+	
+</script>
+
+
