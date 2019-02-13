@@ -71,5 +71,4 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 ## Referências
 
-* No link a seguir você encontrar indicações de editores de código, tutorias, recursos para desenvolvimento de jogos, dicas etc.: <referncia.md> 
-
+* No link a seguir você encontra indicações de editores de código, tutorias, recursos para desenvolvimento de jogos, dicas,  etc.: <https://github.com/ect-info/lop/blob/master/referencias.md> 
