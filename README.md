@@ -73,6 +73,7 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 ### Desktop
 
+* Editor Visual Studio Code, <https://code.visualstudio.com/> 
 * Editor de códigos Atom, <https://atom.io/>
 * Editor de códigos Sublime, <https://www.sublimetext.com>
 * Editor de códigos Geany, <https://www.geany.org/Download/Releases>
