@@ -68,6 +68,9 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
  * https://hourofcode.com/mchoc
  * https://hourofcode.com/silent
 
+## Cursos Online 
+* Introdução a Programação da Khan Academy, https://pt.khanacademy.org/computing/computer-programming/programming   
+* Introdução a Computação, https://www.coursera.org/learn/ciencia-computacao-python-conceitos 
 
 ## Referências
 
