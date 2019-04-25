@@ -53,6 +53,10 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 * [Clique aqui.](https://github.com/orivaldosantana/ECT2203LoP/tree/master/tutorial)
 
+## Vídeos de Apoio para o Projeto
+* Canal da monitoria, https://www.youtube.com/channel/UCIyaaX-MArLSB6BCo4FC3Og 
+* Etapa 1, https://youtu.be/DFBTf141TD4
+
 ## Vídeos Motivacionais
 
 * Com dedicação, qualquer pessoa pode aprender, <https://www.youtube.com/watch?v=ip051U7Rvds>
