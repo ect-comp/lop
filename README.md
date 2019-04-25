@@ -56,6 +56,8 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 ## Vídeos de Apoio para o Projeto
 * Canal da monitoria, https://www.youtube.com/channel/UCIyaaX-MArLSB6BCo4FC3Og 
 * Etapa 1, https://youtu.be/DFBTf141TD4
+* Etapa 2, https://youtu.be/5B4AAMYFJuU 
+
 
 ## Vídeos Motivacionais
 
