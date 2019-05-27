@@ -53,6 +53,12 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 * [Clique aqui.](https://github.com/orivaldosantana/ECT2203LoP/tree/master/tutorial)
 
+## Vídeos de Apoio para o Projeto
+* Canal da monitoria, https://www.youtube.com/channel/UCIyaaX-MArLSB6BCo4FC3Og 
+* Etapa 1, https://youtu.be/DFBTf141TD4
+* Etapa 2, https://youtu.be/5B4AAMYFJuU 
+
+
 ## Vídeos Motivacionais
 
 * Com dedicação, qualquer pessoa pode aprender, <https://www.youtube.com/watch?v=ip051U7Rvds>
@@ -68,8 +74,19 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
  * https://hourofcode.com/mchoc
  * https://hourofcode.com/silent
 
+## Cursos Online 
+* Introdução a Programação da Khan Academy, https://pt.khanacademy.org/computing/computer-programming/programming   
+* Introdução a Computação, https://www.coursera.org/learn/ciencia-computacao-python-conceitos 
+
+## Jogos de Semestres Anteriores
+
+Trabalhos realizados pelos alunos em semestres anteriores. 
+
+* Jackson, https://github.com/Jackson1020/jogo-derivada ver o jogo https://jackson1020.github.io/jogo-derivada/ 
+* Estefane e Lucas Lopes, https://github.com/estgeorge/lop-ect ver o jogo em https://estgeorge.github.io/
+* Felipe de Souza https://github.com/F-Souza/Trabalho-de-LoP ver o jogo em https://f-souza.github.io/japonesQuiz_LoP/ 
+
 
 ## Referências
 
-* No link a seguir você encontrar indicações de editores de código, tutorias, recursos para desenvolvimento de jogos, dicas etc.: <referncia.md> 
-
+* No link a seguir você encontra indicações de editores de código, tutorias, recursos para desenvolvimento de jogos, dicas,  etc.: <https://github.com/ect-info/lop/blob/master/referencias.md> 
