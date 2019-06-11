@@ -86,6 +86,8 @@ Trabalhos realizados pelos alunos em semestres anteriores.
 * Estefane e Lucas Lopes, https://github.com/estgeorge/lop-ect ver o jogo em https://estgeorge.github.io/
 * Felipe de Souza https://github.com/F-Souza/Trabalho-de-LoP ver o jogo em https://f-souza.github.io/japonesQuiz_LoP/ 
 
+### 2019.1 
+* Raffael e Kauana, https://raffae2679.github.io/
 
 ## Referências
 
