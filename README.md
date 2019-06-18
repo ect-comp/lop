@@ -89,6 +89,7 @@ Trabalhos realizados pelos alunos em semestres anteriores.
 ### 2019.1 
 * Raffael e Kauana, https://raffae2679.github.io/
 * Laini Teles, https://lainiteles.github.io/Projeto_Final_LoP/versao_finall/
+* José Rogério, https://jrogerio92.github.io/oort/ 
 
 ## Referências
 
