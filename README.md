@@ -90,6 +90,7 @@ Trabalhos realizados pelos alunos em semestres anteriores.
 * Raffael e Kauana, https://raffae2679.github.io/
 * Laini Teles, https://lainiteles.github.io/Projeto_Final_LoP/versao_finall/
 * José Rogério, https://jrogerio92.github.io/oort/ 
+* Ana Beatriz e Joyce Karoline, https://ananuness.github.io/Projeto-de-LoP/
 
 ## Referências
 
