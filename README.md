@@ -91,6 +91,7 @@ Trabalhos realizados pelos alunos em semestres anteriores.
 * Laini Teles, https://lainiteles.github.io/Projeto_Final_LoP/versao_finall/
 * José Rogério, https://jrogerio92.github.io/oort/ 
 * Ana Beatriz e Joyce Karoline, https://ananuness.github.io/Projeto-de-LoP/
+* Filipe Gregório e Ivamar, https://filipegreg1.github.io/mexicanoelite/EtapaFINAL/index.html 
 
 ## Referências
 
