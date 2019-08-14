@@ -2,7 +2,8 @@
 
 Página para apresentar os códigos do componente curricular ECT2203 - Lógica de Programação.
 
-
+## Canal para tirar dúvidas
+* Discord: https://discord.gg/tEyBxcH
 
 ## Aulas Práticas
 
