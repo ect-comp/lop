@@ -58,6 +58,14 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 * Canal da monitoria, https://www.youtube.com/channel/UCIyaaX-MArLSB6BCo4FC3Og 
 * Etapa 1, https://youtu.be/DFBTf141TD4
 * Etapa 2, https://youtu.be/5B4AAMYFJuU 
+* Etapa 3, https://youtu.be/ANK_lKuwopI 
+* Etapa 4, https://youtu.be/WxQLFWyVPpw
+* Etapa 5, https://youtu.be/arosSKj4gTQ
+* Etapa 6, https://youtu.be/7SSRAd8VjOA
+* Etapa 7, https://youtu.be/f0e0QCtJq7E
+* Etapa 8, https://youtu.be/_qU24vF-Vsg
+* Etapa 9, https://youtu.be/YkAXnw6YlaE
+* Etapa 10, https://youtu.be/NtB7daKxjnM
 
 
 ## Vídeos Motivacionais
