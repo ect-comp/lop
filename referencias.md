@@ -17,6 +17,7 @@
 ### Aplicativos
 
 * JS Run, [https://play.google.com](https://play.google.com/store/apps/details?id=com.mia.jsrun&hl=pt_BR)
+* JavaScript Anyware, [https://apps.apple.com](https://apps.apple.com/br/app/javascript-anywhere-jsanywhere/id363452277)
 * AnWriter, [https://play.google.com](https://play.google.com/store/apps/details?id=com.ansm.anwriter&hl=pt_BR)
 
 ### Tutoriais
