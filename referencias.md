@@ -10,7 +10,8 @@
 
 ### Online  
 
-* Editor Js Bin, <https://jsbin.com/>
+* Editor JS Fiddle, https://jsfiddle.net/
+* Editor JS Bin, <https://jsbin.com/>
 * Editor de códigos JS, <https://js.do>
 * Editor de códigos Repl, <https://repl.it/languages/javascript>
 
