@@ -27,6 +27,15 @@
 * Guia javascript da MDN (Mozilla Developr Network), <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction>
 * Ferramenta de controle de versão de códigos e colaboração, Git, http://willianjusten.teachable.com/p/git-e-github-para-iniciantes
 
+### Cursos olines
+
+* [Cursos em Vídeo](https://www.cursoemvideo.com/cursos/)
+* [Curso de HTML5 e CSS3 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) 
+* [Curso de Lógica de Programação e Algoritmos - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) 
+* [Curso JavaScript e ECMAScript para Iniciantes - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+* [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) 
+
+
 ### Processing
 
 * Referências para as funções do processing em javascript, <https://p5js.org/reference/>
