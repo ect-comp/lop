@@ -1,7 +1,13 @@
-# Processamento de Linguagem Natural
+# Lógica de Programação 2020.2
+* Plano de Curso 
+
+## Canal para tirar dúvidas
+* Discord: https://discord.gg/tEyBxcH
+
 ## Links importantes 
-* [Material de aulas]()
-* [Referências]()
+* [Material de aulas da Turma 03](https://github.com/ect-info/lop/blob/master/aulas_2020_2_t03.md)
+* [Referências](https://github.com/ect-info/lop/blob/master/referencias.md)
+* [Cronograma](https://github.com/ect-info/lop/blob/master/cronograma_2020_2.md) 
 
 ## Dados da Turma  
 * **Turma:** ECT2203 - Lógica de Programação
@@ -42,9 +48,6 @@ As avaliações serão baseadas em:
 * Resolução das listas exercícios no formato de prova 
 * Projeto final (a ser desenvolvido no decorrer do componente curricular) e disponibilizados na plataforma colabeduc
 * Produção de vídeo explicando o desenvolvimento do jogo final
-
-
-## Cronograma 
 
 
 
