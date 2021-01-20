@@ -7,6 +7,8 @@
 ## Links importantes 
 * [Material de aulas da Turma 03](https://github.com/ect-info/lop/blob/master/aulas_2020_2_t03.md)
 * [Referências](https://github.com/ect-info/lop/blob/master/referencias.md)
+* [Vídeos diversos](videos_diversos.md)
+* [Cursos online](cursos_online.md)
 * [Cronograma](https://github.com/ect-info/lop/blob/master/cronograma_2020_2.md) 
 
 ## Dados da Turma  
