@@ -2,7 +2,7 @@
 * Plano de Curso 
 
 ## Canal para tirar dúvidas
-* Discord: https://discord.gg/tEyBxcH
+* Discord: https://discord.gg/ynWusJt
 
 ## Links importantes 
 * [Material de aulas da Turma 03](https://github.com/ect-info/lop/blob/master/aulas_2020_2_t03.md)
