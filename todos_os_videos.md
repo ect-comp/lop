@@ -10,15 +10,17 @@
 * [Exercício LoP: Calculando expressões - parte1](https://youtu.be/Xv47XGJW0ww)
 * [Exercício LoP: Média Ponderada](https://www.youtube.com/watch?v=OlkqDmkUrBQ)
 * [Exercício LoP: Convertendo de horas para dias](https://www.youtube.com/watch?v=moLgFIontpg)
+* [Exercício LoP: Troca de valores entre variáveis](https://youtu.be/B6GeGMeWEeU)
 * [Exercício LoP: Separando em Dezena e Unidade](https://youtu.be/XzijNGZ417k):
 * [Exercício LoP: Raízes de uma equação de segundo grau](https://youtu.be/PdE4u215ukI)
-* [Troca de Dígitos](https://www.youtube.com/watch?v=5obyZNKpyr0)  
+* [Exercício LoP: Troca de Dígitos](https://www.youtube.com/watch?v=5obyZNKpyr0)  
+* [Exercício LoP: Data Válida](https://youtu.be/efkb1ZsnqkQ)
 
 ### Repetição Condicional 
-* [Explicação detalhada e revisão sobre “While” e contadores: exercícios sobre múltiplo de 3 ou de 7](https://www.youtube.com/watch?v=gXW2r0prfog)
+* [Trecho de aula: Múltiplo de 3 ou de 7](https://www.youtube.com/watch?v=gXW2r0prfog)
 
 ### Repetição Contada 
-* []()
+* [Trecho de aula: Soma de valores ímpares](https://youtu.be/9IbJfR4l_pM)
 * [Trecho de aula: Contagem de 22 a 53](https://youtu.be/sOZ4Nsb3KG8)
 * [Trecho de aula: Identificando números primos](https://youtu.be/pJnTXB4qHzA)
 
