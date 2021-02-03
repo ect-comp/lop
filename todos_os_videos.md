@@ -13,6 +13,9 @@
 * [Exercício LoP: Troca de valores entre variáveis](https://youtu.be/B6GeGMeWEeU)
 * [Exercício LoP: Separando em Dezena e Unidade](https://youtu.be/XzijNGZ417k):
 * [Exercício LoP: Raízes de uma equação de segundo grau](https://youtu.be/PdE4u215ukI)
+* [Exercício LoP: Resto da divisão inteira](https://youtu.be/gluKiJoB7oI)
+* [Exercício LoP: Custo ao consumidor de um carro novo](https://youtu.be/SI8uCFSBb7o) 
+* [Exercício LoP: Comissão do garçom no restaurante](https://youtu.be/iq-hTN586hQ)
 * [Exercício LoP: Troca de Dígitos](https://www.youtube.com/watch?v=5obyZNKpyr0)  
 * [Exercício LoP: Data Válida](https://youtu.be/efkb1ZsnqkQ)
 
@@ -33,6 +36,11 @@
 * [Trecho de aula: Menor e posição de um vetor](https://youtu.be/0Ob9V2RYl6E)
 * [Trecho de aula: Retirar repetidos em um vetor](https://youtu.be/aTSKjNnvDyM) 
 * [Trecho de aula: Matriz de asteriscos](https://youtu.be/NW9OR6pCil0)
+
+
+## Vídeo Aulas 
+### Expressões aritméticas 
+* [Revisão prática sobre o operador de resto da divisão](https://youtu.be/fOp1ABeow2U)
 
 
 
