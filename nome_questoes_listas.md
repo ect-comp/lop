@@ -35,6 +35,22 @@
 * Troca de dígitos UDC
 * Custo ao consumidor de um carro novo
 
+### Estruturas de Decisão - Lista Resolvida (LOP)
+* Altura acima de média 
+* Altura abaixo da média
+* Compara com 10
+* Compara com 20
+* O quadrado ou raiz
+* Compara com 20 parte 2
+* Menor de 3 números
+
+
+
+
+
+
+
+
 ## Unidade II
 
 ## Unidade III 
