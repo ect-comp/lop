@@ -41,8 +41,40 @@
 ## Vídeo Aulas 
 ### Expressões aritméticas 
 * [Revisão prática sobre o operador de resto da divisão](https://youtu.be/fOp1ABeow2U)
+* [Expressões, variáveis, tipos de dados, e entrada e saída - Comentando os slides](https://www.youtube.com/playlist?list=PLfGOgFSaHKF66rVWkGP4OdAj65s-neblE)  
+* [Variáveis e Saída de dados](https://www.youtube.com/watch?v=1E9aH4kWCd8)
+* [Entrada de Dados - função prompt] (https://www.youtube.com/watch?v=tDcDsd7Vmeg)
+* [Operadores](https://youtu.be/or8FvL3zPLI)  
+* [Expressões aritméticas](https://youtu.be/egpw13YEPz4)  
+
+### Estrutura Condicional 
+* [Introdução a Estrutura Condicional](https://youtu.be/g1yAorSzwck)
+* [Operadores Relacionais](https://youtu.be/PoTZ0JG4b44) 
+* [Estrutura Condicional Composta](https://youtu.be/Ol5bYWoF8_8 )
+* [Estrutura Condicional Composta Exemplo](https://youtu.be/iT1L4QK9E_E )
+* [Estrutura Condicional Aninhada](https://youtu.be/YFE8SMNNXvM )
+* [Teste de Intervalo](https://youtu.be/B4cBpVoUC1M )
+* [Estrutura Condicional - Demonstração](https://youtu.be/cGj2VXUP3TU )
+* [Operadores Lógicos](https://youtu.be/ckUFmolVOgc) 
+* [Precedência de Operadores](https://youtu.be/0addYup760g)
+* [Operadores Lógicos - Exemplos](https://youtu.be/43WlCvk6vII) 
 
 
+## Projeto do Jogo - P5JS
 
-
+* [Usando o teclado](https://youtu.be/C4KFQqOdLME) 
+* [Usando o mouse](https://youtu.be/UxWuogZUc5Q)
+* [Identificando quando um ponto está dentro de de um retângulo ]( https://youtu.be/VBqD540OeKQ )
+* [Criando um menu com mouse o jogo ]( https://youtu.be/G_RXfGiTPrw )
+* [Criando um menu com teclado o jogo](https://youtu.be/yJJP_eLcj9o)
+* [Mudança de Nível do Jogo](https://youtu.be/s9KG3J32-7U)  
+* [Arrastando um círculo com o mouse](https://youtu.be/6FzU41_PMH0)  
+* [Ponto dentro de um Círculo](https://youtu.be/LMF3BDIe7ek) 
+* [Como adicionar uma imagem](https://youtu.be/axm_QWB_pfE) 
+* [Usando números aleatórios](https://youtu.be/KpTh3Bs1b5s)  
+* [Escrevendo um texto](https://youtu.be/pY0i7LbOoIs)  
+* [Contanto o Tempo](https://youtu.be/TRiK68OKTeI)  
+* [Colisão entre dois objetos](https://youtu.be/PKPPXPOdbIE)  
+* [Disparos usando o mouse](https://youtu.be/BQWd_IcDrg4) 
+* [Pulo simples](https://youtu.be/d4xeGwp8ns0)
 
