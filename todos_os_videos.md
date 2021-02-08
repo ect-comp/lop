@@ -16,10 +16,14 @@
 * [Exercício LoP: Resto da divisão inteira](https://youtu.be/gluKiJoB7oI)
 * [Exercício LoP: Custo ao consumidor de um carro novo](https://youtu.be/SI8uCFSBb7o) 
 * [Exercício LoP: Comissão do garçom no restaurante](https://youtu.be/iq-hTN586hQ)
-* [Exercício LoP: Troca de Dígitos](https://www.youtube.com/watch?v=5obyZNKpyr0)  
+* [Exercício LoP: Troca de Dígitos](https://www.youtube.com/watch?v=5obyZNKpyr0) 
+* [Exercício LoP: Troca de dígitos UCD](https://youtu.be/FM4jrg585iI)
 * [Exercício LoP: Data Válida](https://youtu.be/efkb1ZsnqkQ)
 
 ### Repetição Condicional 
+* [Exercício LoP: Altura abaixo da média](https://youtu.be/pe40iJmUrMc)
+* [Exercício LoP: Índice de Massa Corporal (IMC) - parte 2](https://youtu.be/QaRZB3THMrU) 
+* [Exercício LoP: Menor de 3 números](https://youtu.be/2-RVn_UqiPE) 
 * [Trecho de aula: Múltiplo de 3 ou de 7](https://www.youtube.com/watch?v=gXW2r0prfog)
 
 ### Repetição Contada 
@@ -43,7 +47,7 @@
 * [Revisão prática sobre o operador de resto da divisão](https://youtu.be/fOp1ABeow2U)
 * [Expressões, variáveis, tipos de dados, e entrada e saída - Comentando os slides](https://www.youtube.com/playlist?list=PLfGOgFSaHKF66rVWkGP4OdAj65s-neblE)  
 * [Variáveis e Saída de dados](https://www.youtube.com/watch?v=1E9aH4kWCd8)
-* [Entrada de Dados - função prompt] (https://www.youtube.com/watch?v=tDcDsd7Vmeg)
+* [Entrada de Dados - função prompt](https://www.youtube.com/watch?v=tDcDsd7Vmeg)
 * [Operadores](https://youtu.be/or8FvL3zPLI)  
 * [Expressões aritméticas](https://youtu.be/egpw13YEPz4)  
 
@@ -64,7 +68,7 @@
 
 * [Usando o teclado](https://youtu.be/C4KFQqOdLME) 
 * [Usando o mouse](https://youtu.be/UxWuogZUc5Q)
-* [Identificando quando um ponto está dentro de de um retângulo ]( https://youtu.be/VBqD540OeKQ )
+* [Identificando quando um ponto está dentro de de um retângulo ](https://youtu.be/VBqD540OeKQ )
 * [Criando um menu com mouse o jogo ]( https://youtu.be/G_RXfGiTPrw )
 * [Criando um menu com teclado o jogo](https://youtu.be/yJJP_eLcj9o)
 * [Mudança de Nível do Jogo](https://youtu.be/s9KG3J32-7U)  
