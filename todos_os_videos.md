@@ -20,10 +20,19 @@
 * [Exercício LoP: Troca de dígitos UCD](https://youtu.be/FM4jrg585iI)
 * [Exercício LoP: Data Válida](https://youtu.be/efkb1ZsnqkQ)
 
-### Repetição Condicional 
+### Estrutura de Decisão 
+* [Exercício LoP: Altura acima de média](https://youtu.be/r5EQIPde8T0)
 * [Exercício LoP: Altura abaixo da média](https://youtu.be/pe40iJmUrMc)
+* [Exercício LoP: Compara com 10](https://youtu.be/o4ZO5dMkxG0)  
+* [Exercício LoP: Compara com 20](https://youtu.be/n7xOLgd71Io)  
+* [Exercício LoP: O quadrado ou raiz](https://youtu.be/MdZsgg5juTw) 
+* [Exercício LoP: Compara com 20 parte 2](https://youtu.be/Cwn25LIXrvc) 
+* [Exercício LoP: Menor de 3 números](https://youtu.be/2-RVn_UqiPE) 
 * [Exercício LoP: Índice de Massa Corporal (IMC) - parte 2](https://youtu.be/QaRZB3THMrU) 
 * [Exercício LoP: Menor de 3 números](https://youtu.be/2-RVn_UqiPE) 
+
+### Repetição Condicional 
+* [A média de 4 alunos](https://youtu.be/2f8pWlJ3VhM) 
 * [Trecho de aula: Múltiplo de 3 ou de 7](https://www.youtube.com/watch?v=gXW2r0prfog)
 
 ### Repetição Contada 
