@@ -32,7 +32,12 @@
 * [Exercício LoP: Menor de 3 números](https://youtu.be/2-RVn_UqiPE) 
 
 ### Repetição Condicional 
-* [A média de 4 alunos](https://youtu.be/2f8pWlJ3VhM) 
+* [Exercício LoP: Sucessor de um número com uma váriavel](https://youtu.be/NAsmuvTkGbs) 
+* [Exercício LoP: Cinco vezes Bom dia!](https://youtu.be/GyMArtAx6lM)
+* [Exercício LoP: Dez vezes Bom dia!](https://youtu.be/4w4tOI6swDw) 
+* [Exercício LoP: A média de 4 alunos](https://youtu.be/2f8pWlJ3VhM) 
+* [Exercício LoP: Entendendo o contador](https://youtu.be/ycOcJeDg3e8)
+* [Exercício LoP: Contando de 2 em 2](https://youtu.be/Ak67rqP7Hpc)
 * [Trecho de aula: Múltiplo de 3 ou de 7](https://www.youtube.com/watch?v=gXW2r0prfog)
 
 ### Repetição Contada 
@@ -72,9 +77,7 @@
 * [Precedência de Operadores](https://youtu.be/0addYup760g)
 * [Operadores Lógicos - Exemplos](https://youtu.be/43WlCvk6vII) 
 
-
 ## Projeto do Jogo - P5JS
-
 * [Usando o teclado](https://youtu.be/C4KFQqOdLME) 
 * [Usando o mouse](https://youtu.be/UxWuogZUc5Q)
 * [Identificando quando um ponto está dentro de de um retângulo ](https://youtu.be/VBqD540OeKQ )
