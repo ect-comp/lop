@@ -45,6 +45,6 @@
 | | Sem 14 | Aula 29 | Acompanhamento do trabalho |
 | | Sem 14 | Lab 7 | Acompanhamento do trabalho | 
 | 28/04 | Sem 15 | Aula 30 | Acompanhamento do trabalho | 
-| | Sem 15 | Lab 7 | Entrega do trabalho final |
+| | Sem 15 | Lab 7 | Acompanhamento do trabalho |
 | | Sem 15 | Aula 31 | Entrega do trabalho final | 
 
