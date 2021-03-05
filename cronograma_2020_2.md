@@ -35,16 +35,16 @@
 | 31/03 | Sem 11 | Aula 22 | Acompanhamento do trabalho | 
 | | Sem 11 | Aula 23 | Vetores | 
 | | Sem 11 | Lab 5 | Vetores | 
-| | Sem 12 | Aula 24 | Funções |
+| 07/04 | Sem 12 | Aula 24 | Funções |
 | | Sem 12 | Aula 25 | Funções | 
 | | Sem 12 | Lab 6 | Acompanhamento do trabalho | 
-| | Sem 13 | Aula 26  |  Acompanhamento do trabalho | 
+| 14/04 | Sem 13 | Aula 26  |  Acompanhamento do trabalho | 
 | | Sem 13 | Aula 27 | Acompanhamento do trabalho | 
 | | Sem 13 | Lab 6 | Acompanhamento do trabalho | 
-| | Sem 14 | Aula 28 | Acompanhamento do trabalho | 
+| 21/04 | Sem 14 | Aula 28 | Acompanhamento do trabalho | 
 | | Sem 14 | Aula 29 | Acompanhamento do trabalho |
 | | Sem 14 | Lab 7 | Acompanhamento do trabalho | 
-| | Sem 15 | Aula 30 | Acompanhamento do trabalho | 
-| | Sem 15 | Aula 31 | Acompanhamento do trabalho |
-| | Sem 15 | Lab 7 | Acompanhamento do trabalho | 
-| | Sem 16 | Aula 32 | Entrega do trabalho final |
+| 28/04 | Sem 15 | Aula 30 | Acompanhamento do trabalho | 
+| | Sem 15 | Lab 7 | Entrega do trabalho final |
+| | Sem 15 | Aula 31 | Entrega do trabalho final | 
+
