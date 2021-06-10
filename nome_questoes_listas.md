@@ -34,6 +34,7 @@
 * Troca de dígitos UCD
 * Troca de dígitos UDC
 * Custo ao consumidor de um carro novo
+* Área e Volume do círculo de raio R
 
 ### Estruturas de Decisão - Lista Resolvida (LOP)
 * Altura acima de média 
