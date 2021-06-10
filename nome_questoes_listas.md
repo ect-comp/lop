@@ -37,13 +37,29 @@
 * Área e Volume do círculo de raio R
 
 ### Estruturas de Decisão - Lista Resolvida (LOP)
-* Altura acima de média 
-* Altura abaixo da média
-* Compara com 10
 * Compara com 20
-* O quadrado ou raiz
-* Compara com 20 parte 2
 * Menor de 3 números
+* Altura acima de média
+* Altura abaixo da média
+* Compara com 20 parte 2
+* O quadrado ou raiz 
+* Compara com 10
+
+### Estruturas de Decisão - Lista Prática (LOP)
+* Idades e permissões
+* IMC simples com 2 decisões 
+* Calcular Índice de Massa Corporal (IMC) - parte 1 
+* Média com 3 situações de decisão - parte 2 
+* Categorias de natação 
+* Par ou impar
+* Índice de Massa Corporal (IMC) - parte 2
+* Divisível por 3 e por 4 - versão ainda mais complexa
+* Divisível por 3 e por 4 ao mesmo tempo
+* IMC novamente com 2 decisões
+* Média com 3 situações de decisão
+* Encontrando números pares
+* Divisível por 3 e por 4 - versão mais complexa
+
 
 
 
