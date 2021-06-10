@@ -40,6 +40,21 @@
 
 * Referências para as funções do processing em javascript, <https://p5js.org/reference/>
 
+### Vídeos Motivacionais
+
+* [Com dedicação, qualquer pessoa pode aprender](https://www.youtube.com/watch?v=ip051U7Rvds)
+* [Vídeo de code.org](https://youtu.be/nKIu9yen5nc)
+
+### Atividades Introdutórias a Lógica de Programação
+
+* Jogos para os programadores de amanhã <https://blockly-games.appspot.com/>  
+* Jogos do site [hora do código](code.org):
+ * https://hourofcode.com/code
+ * https://code.org/minecraft
+ * https://hourofcode.com/mchoc
+ * https://hourofcode.com/silent
+
+
 ### Framework para Jogos
 
 * Phaser, https://phaser.io/
