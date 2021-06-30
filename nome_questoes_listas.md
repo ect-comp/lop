@@ -3,11 +3,11 @@
 ## Unidade I 
 
 ### Expressões Aritméticas - Lista Resolvida (LOP)
-* Suas submissões: 5;
-* Calculando expressões;
-* Introdução Soma;
-* Programa Bom Dia!; 
-* Média Ponderada; 
+* É preciso praticar muito!
+* Calculando expressões - parte 1
+* Introdução Soma
+* Programa Bom Dia!
+* Média Ponderada
 
 ### Expressões Aritméticas - Lista Prática (LOP)
 * Calculando expressões - parte 2
@@ -34,16 +34,16 @@
 * Troca de dígitos UCD
 * Troca de dígitos UDC
 * Custo ao consumidor de um carro novo
-* Área e Volume do círculo de raio R
+ 
 
 ### Estruturas de Decisão - Lista Resolvida (LOP)
-* Compara com 20
-* Menor de 3 números
 * Altura acima de média
 * Altura abaixo da média
+* Compara com 10
+* Compara com 20
 * Compara com 20 parte 2
 * O quadrado ou raiz 
-* Compara com 10
+* Menor de 3 números
 
 ### Estruturas de Decisão - Lista Prática (LOP)
 * Idades e permissões
@@ -61,7 +61,24 @@
 * Divisível por 3 e por 4 - versão mais complexa
 
 
-
+### Estruturas de Decisão - Lista de Exercícios (LOP)
+* Divisível por 2 números ao mesmo tempo 
+* Duas ou mais condições com && 
+* Categorias de natação com 4 casos 
+* Identificação de Bimestres 
+* Divisão por 0 
+* Conversão de Temperatura entre paises 
+* Cálculo do novo Salário
+* Divisível por 5
+* Não é divisivel por 3
+* Divisível por 3 e por 5
+* Divisível por 3, mas não por 4
+* Divisível por 3 valores ao mesmo tempo
+* Divisível por 4 valores ao mesmo tempo
+* Impar ou multiplo de 6
+* Calculando um ano bissexto
+* Qual o dia da semana?
+* Data válida
 
 
 
