@@ -37,28 +37,28 @@
  
 
 ### Estruturas de Decisão - Lista Resolvida (LOP)
-* Altura acima de média
-* Altura abaixo da média
-* Compara com 10
-* Compara com 20
-* Compara com 20 parte 2
-* O quadrado ou raiz 
-* Menor de 3 números
+* Altura acima de média;
+* Altura abaixo da média;
+* Compara com 10;
+* Compara com 20;
+* Compara com 20 parte 2;
+* O quadrado ou raiz;
+* Menor de 3 números;
 
 ### Estruturas de Decisão - Lista Prática (LOP)
-* Idades e permissões
-* IMC simples com 2 decisões 
-* Calcular Índice de Massa Corporal (IMC) - parte 1 
-* Média com 3 situações de decisão - parte 2 
-* Categorias de natação 
-* Par ou impar
-* Índice de Massa Corporal (IMC) - parte 2
-* Divisível por 3 e por 4 - versão ainda mais complexa
-* Divisível por 3 e por 4 ao mesmo tempo
-* IMC novamente com 2 decisões
-* Média com 3 situações de decisão
-* Encontrando números pares
-* Divisível por 3 e por 4 - versão mais complexa
+* Idades e permissões;
+* IMC simples com 2 decisões;
+* Calcular Índice de Massa Corporal (IMC) - parte 1;
+* Média com 3 situações de decisão - parte 2;
+* Categorias de natação;
+* Par ou impar;
+* Índice de Massa Corporal (IMC) - parte 2;
+* Divisível por 3 e por 4 - versão ainda mais complexa;
+* Divisível por 3 e por 4 ao mesmo tempo;
+* IMC novamente com 2 decisões;
+* Média com 3 situações de decisão;
+* Encontrando números pares;
+* Divisível por 3 e por 4 - versão mais complexa;
 
 
 ### Estruturas de Decisão - Lista de Exercícios (LOP)
@@ -84,32 +84,34 @@
 ## Unidade II
 
 ### Repetição condicional - Lista Resolvida (LOP)
-Sucessor de um número com uma váriavel
-Cinco vezes Bom dia!
-Dez vezes Bom dia!
-A média de 4 alunos
-Entendendo o contador
-Contando de 2 em 2
+* Sucessor de um número com uma váriavel
+* Cinco vezes Bom dia!
+* Dez vezes Bom dia!
+* A média de 4 alunos
+* Entendendo o contador
+* Contando de 2 em 2
 
 ### Repetição condicional - Lista Prática (LOP)
-Pare no 22
-Múltiplo de 3 ou 7
-O quadrado dos 5 números
-Contagem regressiva
-Múltiplos de 8 entre 0 e 40
-Contagem progressiva até 10
-Para quando digitar 2
-Contar quantos são maiores de 18 anos
+* Pare no 22
+* Múltiplo de 3 ou 7
+* O quadrado dos 5 números
+* Contagem regressiva
+* Múltiplos de 8 entre 0 e 40
+* Contagem progressiva até 10
+* Para quando digitar 2
+* Contar quantos são maiores de 18 anos
 
 ### Repetição condicional - Lista de Exercícios (LOP)
-Positivos e soma
-Idades
-Porcentagem dos maiores que 15
-Crescimento populacional
-Cálculo da média válida
-Tempo de vida de um material radioativo
-Soma dos pares e ímpares digitados
-Aprendendo a somar
+* Positivos e soma 
+* Idades
+* Porcentagem dos maiores que 15
+* Crescimento populacional
+* Cálculo da média válida
+* Tempo de vida de um material radioativo
+* Soma dos pares e ímpares digitados
+* Aprendendo a somar
+
+
 
 
 ## Unidade III 
