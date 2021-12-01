@@ -5,3 +5,6 @@ Os códigos e os vídeos estão organizandos no seguinte repositório: https://g
 
 ## Jogo da Memória 
 Os códigos e os vídeos estão organizandos no seguinte repositório: https://github.com/orivaldosantana/jogo_da_memoria_didatico
+
+## Jogo da Nave 
+Os códigos e os vídeos estão organizandos no seguinte repositório: https://github.com/orivaldosantana/jogo_da_nave_didatico
