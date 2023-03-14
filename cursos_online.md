@@ -1,6 +1,6 @@
 # Cursos Online 
 
-* [Curso de Lógica de Programação - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) 
+
 * [Introdução à Programação da Khan Academy](https://pt.khanacademy.org/computing/computer-programming/programming)
 * [Curso de HTML5 e CSS3 - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) 
 * [Curso de Lógica de Programação e Algoritmos - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) 
@@ -9,5 +9,5 @@
 * [Introdução à Computação - Cursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
 * [Introdução à Ciência da Computação - Harvard](https://cs50.harvard.edu/x/2020/) 
 * [Cursos em Vídeo](https://www.cursoemvideo.com/cursos/)
-
+* [Curso de Lógica de Programação - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) 
 
