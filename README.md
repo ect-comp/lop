@@ -20,7 +20,7 @@
 * [Referências](https://github.com/ect-info/lop/blob/master/referencias.md)
 * [Vídeos diversos](videos_diversos.md)
 * [Cursos online](cursos_online.md)
-* [Cronograma](https://github.com/ect-info/lop/blob/master/cronograma_2020_2.md) 
+
 
 ### Dados da Turma  
 * **Turma:** ECT2203 - Lógica de Programação
